@@ -76,4 +76,11 @@ nav .container .links {
   height: 100%;
   -o-object-fit: contain;
      object-fit: contain;
+}
+
+section .container {
+  background-color: red;
+  padding: 100px 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
 }/*# sourceMappingURL=main.css.map */
